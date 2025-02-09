@@ -30,8 +30,8 @@ I'm a **Blockchain & Full-Stack Developer** passionate about building secure and
 
 ### 📈 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojrajput2065&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojrajput2065&theme=tokyonight" width="49%" />
 </p>
 
 ---
