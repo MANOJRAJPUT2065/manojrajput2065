@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm John Doe 👋
 
-<!--
-**MANOJRAJPUT2065/manojrajput2065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer focused on building innovative and efficient applications. I enjoy working with modern web technologies and love contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 💻 Skills:
+- Languages: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects:
+- [My Portfolio](https://github.com/johnDoe/portfolio) – A personal website showcasing my projects.
+- [Weather App](https://github.com/johnDoe/weather-app) – A weather forecasting application built with React.
+
+## 📫 How to reach me:
+- LinkedIn: [johnDoe](https://www.linkedin.com/in/johnDoe)
+- Twitter: [@johnDoe](https://twitter.com/johnDoe)
